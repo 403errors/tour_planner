@@ -1,0 +1,9 @@
+streamlit
+flask
+langchain
+neo4j
+chromadb
+requests
+python-dotenv
+geopy
+openai
